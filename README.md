@@ -1,4 +1,3 @@
 # -66DaysOfMachineLearningandDeepLearning
-Day 1:
-I have done the Dibatese classification model , Given the parameter weather the person is having the diabates or not.
-Various Classification algorithms have been used.
+This repository will include the daily study of Machine Learning and Deep Learning for the straight 66 Days.
+It will consisit of the Projects and notes related to Machine Learning and Deep Learning.
